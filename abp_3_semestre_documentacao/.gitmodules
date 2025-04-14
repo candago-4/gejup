@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/candago-3/back/tree/main
+[submodule "front"]
+	path = front
+	url = https://github.com/candago-3/front/tree/main
